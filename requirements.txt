@@ -1,3 +1,5 @@
 flask
 openai
+ollama
 python-dotenv
+pymongo
